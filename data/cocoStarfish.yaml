@@ -1,0 +1,8 @@
+path: ./datasets/coco/Starfish_dataset  # dataset root dir
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['Sea Urchin', 'Starfish']
+
